@@ -1,1 +1,14 @@
-
+[
+  {
+    "name": "Refat Rahman",
+    "student_id": "223002068",
+    "department": "CSE",
+    "batch": "223"
+  },
+  "1": {
+    "name": "Mst Lubna",
+    "student_id": "223002069",
+    "department": "CSE",
+    "batch": "223"
+  }
+]
